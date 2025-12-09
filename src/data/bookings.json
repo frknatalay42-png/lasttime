@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "userId": "1",
+    "propertyId": "1",
+    "checkinDate": "2024-12-01",
+    "checkoutDate": "2024-12-05",
+    "numberOfGuests": 4,
+    "totalPrice": 1241.00,
+    "bookingStatus": "confirmed"
+  },
+  {
+    "id": "2",
+    "userId": "2",
+    "propertyId": "2",
+    "checkinDate": "2024-12-10",
+    "checkoutDate": "2024-12-15",
+    "numberOfGuests": 2,
+    "totalPrice": 1127.50,
+    "bookingStatus": "confirmed"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "userId": "1",
+    "propertyId": "1",
+    "rating": 5,
+    "comment": "Amazing property! The beach view was stunning and the house was immaculate."
+  },
+  {
+    "id": "2",
+    "userId": "2",
+    "propertyId": "2",
+    "rating": 5,
+    "comment": "Perfect mountain getaway. Very peaceful and well-equipped cabin."
+  },
+  {
+    "id": "3",
+    "userId": "1",
+    "propertyId": "3",
+    "rating": 4,
+    "comment": "Great location and modern amenities. Would definitely stay again!"
+  }
+]

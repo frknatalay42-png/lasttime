@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "username": "john_doe",
+    "password": "password123",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phoneNumber": "+1-555-1234",
+    "profilePicture": "https://randomuser.me/api/portraits/men/10.jpg"
+  },
+  {
+    "id": "2",
+    "username": "jane_smith",
+    "password": "password456",
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "phoneNumber": "+1-555-5678",
+    "profilePicture": "https://randomuser.me/api/portraits/women/20.jpg"
+  }
+]

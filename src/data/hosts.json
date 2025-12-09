@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "username": "host_john",
+    "password": "host123!",
+    "name": "John Anderson",
+    "email": "john@host.com",
+    "phoneNumber": "+1-555-0101",
+    "profilePicture": "https://randomuser.me/api/portraits/men/1.jpg",
+    "aboutMe": "Experienced host with luxury properties"
+  },
+  {
+    "id": "2",
+    "username": "host_sarah",
+    "password": "host456!",
+    "name": "Sarah Williams",
+    "email": "sarah@host.com",
+    "phoneNumber": "+1-555-0102",
+    "profilePicture": "https://randomuser.me/api/portraits/women/2.jpg",
+    "aboutMe": "Passionate about hospitality and great experiences"
+  }
+]

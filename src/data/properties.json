@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Luxury Beach House",
+    "description": "Beautiful beachfront property with stunning ocean views",
+    "location": "Malibu, California",
+    "pricePerNight": 310.25,
+    "bedroomCount": 4,
+    "bathRoomCount": 3,
+    "maxGuestCount": 8,
+    "hostId": "1",
+    "rating": 4.8
+  },
+  {
+    "id": "2",
+    "title": "Mountain Cabin Retreat",
+    "description": "Cozy cabin in the mountains, perfect for nature lovers",
+    "location": "Aspen, Colorado",
+    "pricePerNight": 225.50,
+    "bedroomCount": 3,
+    "bathRoomCount": 2,
+    "maxGuestCount": 6,
+    "hostId": "2",
+    "rating": 4.9
+  },
+  {
+    "id": "3",
+    "title": "Downtown Luxury Apartment",
+    "description": "Modern apartment in the heart of the city",
+    "location": "New York, New York",
+    "pricePerNight": 189.99,
+    "bedroomCount": 2,
+    "bathRoomCount": 2,
+    "maxGuestCount": 4,
+    "hostId": "1",
+    "rating": 4.7
+  }
+]
