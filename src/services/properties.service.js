@@ -15,11 +15,9 @@ export async function getAllProperties(filters = {}) {
     };
   }
   
-  // Price filter - less than or equal to given price
+  // Price filter - exact match
   if (pricePerNight) {
-    where.pricePerNight = {
-      lte: parseFloat(pricePerNight)
-    };
+    where.pricePerNight = parseFloat(pricePerNight);
   }
   
   return await prisma.property.findMany({

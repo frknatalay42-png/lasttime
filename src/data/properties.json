@@ -34,5 +34,29 @@
     "maxGuestCount": 4,
     "hostId": "1",
     "rating": 4.7
+  },
+  {
+    "id": "4",
+    "title": "Cozy Studio Apartment",
+    "description": "Perfect starter home or weekend getaway",
+    "location": "Portland, Oregon",
+    "pricePerNight": 150.75,
+    "bedroomCount": 1,
+    "bathRoomCount": 1,
+    "maxGuestCount": 2,
+    "hostId": "2",
+    "rating": 4.5
+  },
+  {
+    "id": "5",
+    "title": "Malibu Beach Bungalow",
+    "description": "Charming beach bungalow with private access to the beach",
+    "location": "Malibu, California",
+    "pricePerNight": 500,
+    "bedroomCount": 3,
+    "bathRoomCount": 2,
+    "maxGuestCount": 6,
+    "hostId": "1",
+    "rating": 4.6
   }
 ]
